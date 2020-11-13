@@ -769,7 +769,7 @@ TextMesh:
   m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
   m_Color:
     serializedVersion: 2
-    rgba: 4294967295
+    rgba: 4279493109
 --- !u!23 &372368950
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -826,8 +826,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 372368948}
   m_LocalRotation: {x: -0, y: -0.31999037, z: -0, w: 0.94742084}
-  m_LocalPosition: {x: 5395.5, y: 102.3, z: 647.2}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: 5390.2, y: 103.5, z: 643.19}
+  m_LocalScale: {x: 2.6517, y: 2.6517, z: 2.6517}
   m_Children:
   - {fileID: 2071675023}
   m_Father: {fileID: 0}
